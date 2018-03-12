@@ -1,71 +1,71 @@
 .489454.padl
-	.CFUserTextEncoding
-	.Protege/
-	.RData
-	.Rhistory
-	.bash_history
-	.bash_sessions/
-	.bundle/
-	.cache/
-	.config/
-	.cups/
-	.docker/
-	.dropbox/
-	.gem/
-	.ghc/
-	.gitconfig
-	.gitignore_global
-	.h2.server.properties
-	.hgignore_global
-	.idea-build/
-	.ivy2/
-	.local/
-	.m2/
-	.netrc
-	.node-gyp/
-	.node_repl_history
-	.npm/
-	.oracle_jre_usage/
-	.pow
-	.pypirc
-	.python_history
-	.rbenv/
-	.rnd
-	.rstudio-desktop/
-	.sbt/
-	.scala_history
-	.sqlline/
-	.ssh/
-	.stack/
-	.subversion/
-	.viminfo
-	.wget-hsts
-	Applications/
-	Desktop/
-	Documents/
-	Downloads/
-	Dropbox/
-	Library/
-	Movies/
-	Music/
-	Pictures/
-	Public/
-	VirtualBox VMs/
-	Zotero/
-	_Papers
-	_Projects/
-	_Proposals/
-	ca.pem
-	cert.pem
-	container.json
-	demo/
-	generate_docker_cert.sh
-	jena/
-	key.pem
-	node_modules/
-	ontologies/
-	package-lock.json
-	pixiewps/
-	server-cert.pem
-	server-key.pem
-	test.mv.db
+.CFUserTextEncoding
+.Protege/
+.RData
+.Rhistory
+.bash_history
+.bash_sessions/
+.bundle/
+.cache/
+.config/
+.cups/
+.docker/
+.dropbox/
+.gem/
+.ghc/
+.gitconfig
+.gitignore_global
+.h2.server.properties
+.hgignore_global
+.idea-build/
+.ivy2/
+.local/
+.m2/
+.netrc
+.node-gyp/
+.node_repl_history
+.npm/
+.oracle_jre_usage/
+.pow
+.pypirc
+.python_history
+.rbenv/
+.rnd
+.rstudio-desktop/
+.sbt/
+.scala_history
+.sqlline/
+.ssh/
+.stack/
+.subversion/
+.viminfo
+.wget-hsts
+Applications/
+Desktop/
+Documents/
+Downloads/
+Dropbox/
+Library/
+Movies/
+Music/
+Pictures/
+Public/
+VirtualBox VMs/
+Zotero/
+_Papers
+_Projects/
+_Proposals/
+ca.pem
+cert.pem
+container.json
+demo/
+generate_docker_cert.sh
+jena/
+key.pem
+node_modules/
+ontologies/
+package-lock.json
+pixiewps/
+server-cert.pem
+server-key.pem
+test.mv.db
